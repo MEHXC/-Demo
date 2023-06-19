@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0ab2c9ccac1a6b43b9ac186253a503c, type: 3}
+  m_Name: AssaultRifleBullet Data
+  m_EditorClassIdentifier: 
+  minDamage: 100
+  maxDamage: 160
+  ammoInMag: 30
+  currentAmmo: 30
+  maxAmmo: 200
+  remainAmmoMaxCarried: 200
+  currentGrenadeNum: 0
+  maxGrenadeNum: 6
+  remainMaxGrenadeNum: 0
